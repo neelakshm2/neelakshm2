@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>We can choose to look at whatever we want.  We can look at what's wrong in our life or we can look at what's right.</span></b><br><br><i> - Sonia Ricotti</i></div>
-<br><br><kbd>Last updated:Thu Jun 30 12:39:38 2022</kbd>
+<div align="center"><b><span>Until we can manage time, we can manage nothing else.</span></b><br><br><i> - Peter Drucker</i></div>
+<br><br><kbd>Last updated:Fri Jul  1 12:10:10 2022</kbd>
