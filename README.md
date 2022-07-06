@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Believe in your infinite potential. Your only limitations are those you set upon yourself.</span></b><br><br><i> - Roy T. Bennett</i></div>
-<br><br><kbd>Last updated:Tue Jul  5 12:08:52 2022</kbd>
+<div align="center"><b><span>Where your talents and the needs of the world cross, there lies your vocation.</span></b><br><br><i> - Aristotle</i></div>
+<br><br><kbd>Last updated:Wed Jul  6 12:20:40 2022</kbd>
