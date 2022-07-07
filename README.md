@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Where your talents and the needs of the world cross, there lies your vocation.</span></b><br><br><i> - Aristotle</i></div>
-<br><br><kbd>Last updated:Wed Jul  6 12:20:40 2022</kbd>
+<div align="center"><b><span>It's very strange that the people you love are often the people you're most cruel to.</span></b><br><br><i> - Kenneth Branagh</i></div>
+<br><br><kbd>Last updated:Thu Jul  7 12:10:35 2022</kbd>
