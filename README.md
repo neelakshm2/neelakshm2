@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Love yourself with the same intensity you would use to pull yourself up if you were hanging off a cliff.</span></b><br><br><i> - Kamal Ravikant</i></div>
-<br><br><kbd>Last updated:Sat Jul  9 12:08:08 2022</kbd>
+<div align="center"><b><span>It's your outlook on life that counts.</span></b><br><br><i> - Betty White</i></div>
+<br><br><kbd>Last updated:Sun Jul 10 12:09:02 2022</kbd>
