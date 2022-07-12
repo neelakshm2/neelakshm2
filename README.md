@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>In life you need either inspiration or desperation.</span></b><br><br><i> - Tony Robbins</i></div>
-<br><br><kbd>Last updated:Mon Jul 11 12:12:03 2022</kbd>
+<div align="center"><b><span>Every day may not be good, but there's something good in every day.</span></b><br><br><i> - Unknown</i></div>
+<br><br><kbd>Last updated:Tue Jul 12 12:11:39 2022</kbd>
