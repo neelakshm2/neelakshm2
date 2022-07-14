@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.</span></b><br><br><i> - Roy T. Bennett</i></div>
-<br><br><kbd>Last updated:Wed Jul 13 12:09:11 2022</kbd>
+<div align="center"><b><span>May you live all the days of your life.</span></b><br><br><i> - Jonathan Swift</i></div>
+<br><br><kbd>Last updated:Thu Jul 14 12:10:14 2022</kbd>
