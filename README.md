@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>May you live all the days of your life.</span></b><br><br><i> - Jonathan Swift</i></div>
-<br><br><kbd>Last updated:Thu Jul 14 12:10:14 2022</kbd>
+<div align="center"><b><span>The more reasons you have for achieving your goal, the more determined you will become.</span></b><br><br><i> - Brian Tracy</i></div>
+<br><br><kbd>Last updated:Fri Jul 15 12:11:14 2022</kbd>
