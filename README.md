@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The more reasons you have for achieving your goal, the more determined you will become.</span></b><br><br><i> - Brian Tracy</i></div>
-<br><br><kbd>Last updated:Fri Jul 15 12:11:14 2022</kbd>
+<div align="center"><b><span>The highest form of ignorance is when you reject something you don't know anything about. </span></b><br><br><i> - Wayne Dyer</i></div>
+<br><br><kbd>Last updated:Sat Jul 16 12:08:39 2022</kbd>
