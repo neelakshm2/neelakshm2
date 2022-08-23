@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>One is never afraid of the unknown; one is afraid of the known coming to an end.</span></b><br><br><i> - Jiddu Krishnamurti</i></div>
-<br><br><kbd>Last updated:Mon Aug 22 12:11:21 2022</kbd>
+<div align="center"><b><span>The birth of the mind is the death of the senses.</span></b><br><br><i> - Dan Millman</i></div>
+<br><br><kbd>Last updated:Tue Aug 23 12:11:22 2022</kbd>
