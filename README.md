@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>By changing nothing, nothing changes.</span></b><br><br><i> - Celestine Chua</i></div>
-<br><br><kbd>Last updated:Sun Aug 28 12:09:50 2022</kbd>
+<div align="center"><b><span>Nothing is permanent in this wicked world - not even our troubles.</span></b><br><br><i> - Charlie Chaplin</i></div>
+<br><br><kbd>Last updated:Mon Aug 29 12:12:28 2022</kbd>
