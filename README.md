@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Nothing is permanent in this wicked world - not even our troubles.</span></b><br><br><i> - Charlie Chaplin</i></div>
-<br><br><kbd>Last updated:Mon Aug 29 12:12:28 2022</kbd>
+<div align="center"><b><span>What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!</span></b><br><br><i> - Charles Darwin</i></div>
+<br><br><kbd>Last updated:Tue Aug 30 12:14:58 2022</kbd>
