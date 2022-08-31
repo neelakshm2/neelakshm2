@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>What a book a devil's chaplain might write on the clumsy, wasteful, blundering, low, and horribly cruel work of nature!</span></b><br><br><i> - Charles Darwin</i></div>
-<br><br><kbd>Last updated:Tue Aug 30 12:14:58 2022</kbd>
+<div align="center"><b><span>Study logic and math, because once you've mastered them, you won't fear any book.</span></b><br><br><i> - Naval Ravikant</i></div>
+<br><br><kbd>Last updated:Wed Aug 31 12:11:48 2022</kbd>
