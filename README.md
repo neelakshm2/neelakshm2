@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The destiny of man is in his own soul. </span></b><br><br><i> - Herodotus</i></div>
-<br><br><kbd>Last updated:Wed Sep  7 12:10:42 2022</kbd>
+<div align="center"><b><span>Better late than never.</span></b><br><br><i> - Spencer Johnson</i></div>
+<br><br><kbd>Last updated:Thu Sep  8 12:11:03 2022</kbd>
