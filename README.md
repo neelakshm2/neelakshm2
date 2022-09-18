@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>A diamond is a piece of charcoal that handled stress exceptionally well.</span></b><br><br><i> - Unknown</i></div>
-<br><br><kbd>Last updated:Sat Sep 17 12:09:49 2022</kbd>
+<div align="center"><b><span>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</span></b><br><br><i> - Walt Disney</i></div>
+<br><br><kbd>Last updated:Sun Sep 18 12:10:15 2022</kbd>
