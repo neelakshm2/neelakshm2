@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</span></b><br><br><i> - Walt Disney</i></div>
-<br><br><kbd>Last updated:Sun Sep 18 12:10:15 2022</kbd>
+<div align="center"><b><span>Do the difficult things while they are easy and do the great things while they are small.</span></b><br><br><i> - Lao Tzu</i></div>
+<br><br><kbd>Last updated:Mon Sep 19 12:13:48 2022</kbd>
