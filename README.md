@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Presents are made for the pleasure of who gives them, not the merits of who receives them.</span></b><br><br><i> - Carlos Ruiz Zafon</i></div>
-<br><br><kbd>Last updated:Sat Sep 24 12:11:40 2022</kbd>
+<div align="center"><b><span>This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play.</span></b><br><br><i> - Alan Watts</i></div>
+<br><br><kbd>Last updated:Sun Sep 25 12:10:57 2022</kbd>
