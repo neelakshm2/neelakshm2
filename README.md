@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>A crisis is an opportunity riding the dangerous wind.</span></b><br><br><i> - Chinese Proverb</i></div>
-<br><br><kbd>Last updated:Wed Sep 28 12:12:50 2022</kbd>
+<div align="center"><b><span>Is it really possible to tell someone else what one feels?</span></b><br><br><i> - Leo Tolstoy</i></div>
+<br><br><kbd>Last updated:Thu Sep 29 12:12:40 2022</kbd>
