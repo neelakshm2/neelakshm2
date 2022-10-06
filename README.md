@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Learn to enjoy every minute of your life. Be happy now. Don't wait for something outside of yourself to make you happy in the future.</span></b><br><br><i> - Earl Nightingale</i></div>
-<br><br><kbd>Last updated:Wed Oct  5 12:12:09 2022</kbd>
+<div align="center"><b><span>To be great is to be misunderstood.</span></b><br><br><i> - Ralph Waldo Emerson</i></div>
+<br><br><kbd>Last updated:Thu Oct  6 12:13:11 2022</kbd>
