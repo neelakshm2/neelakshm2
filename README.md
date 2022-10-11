@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Do the hard jobs first. The easy jobs will take care of themselves.</span></b><br><br><i> - Dale Carnegie</i></div>
-<br><br><kbd>Last updated:Mon Oct 10 12:14:47 2022</kbd>
+<div align="center"><b><span>To be alive - is Power.</span></b><br><br><i> - Emily Dickinson</i></div>
+<br><br><kbd>Last updated:Tue Oct 11 12:13:50 2022</kbd>
