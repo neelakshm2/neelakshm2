@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Life is trying things to see if they work.</span></b><br><br><i> - Ray Bradbury</i></div>
-<br><br><kbd>Last updated:Sat Oct 15 12:11:35 2022</kbd>
+<div align="center"><b><span>Desire is suffering.</span></b><br><br><i> - Naval Ravikant</i></div>
+<br><br><kbd>Last updated:Sun Oct 16 12:11:20 2022</kbd>
