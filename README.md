@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.</span></b><br><br><i> - Steve Jobs</i></div>
-<br><br><kbd>Last updated:Fri Dec  2 12:09:19 2022</kbd>
+<div align="center"><b><span>Believe in one thing too much and you have no room for new ideas.  </span></b><br><br><i> - Ray Bradbury</i></div>
+<br><br><kbd>Last updated:Sat Dec  3 12:07:45 2022</kbd>
