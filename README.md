@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The foolish reject what they see, not what they think; the wise reject what they think, not what they see.</span></b><br><br><i> - Huang Po</i></div>
-<br><br><kbd>Last updated:Mon Dec  5 12:09:07 2022</kbd>
+<div align="center"><b><span>He who can, does.</span></b><br><br><i> - George Bernard Shaw</i></div>
+<br><br><kbd>Last updated:Tue Dec  6 12:09:15 2022</kbd>
