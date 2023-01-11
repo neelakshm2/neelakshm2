@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>A man who dares to waste one hour of time has not discovered the value of life.</span></b><br><br><i> - Charles Darwin</i></div>
-<br><br><kbd>Last updated:Tue Jan 10 12:08:56 2023</kbd>
+<div align="center"><b><span>Yesterday is gone. Tomorrow has not yet come. We have only today.</span></b><br><br><i> - Mother Teresa</i></div>
+<br><br><kbd>Last updated:Wed Jan 11 12:09:35 2023</kbd>
