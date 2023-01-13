@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Presents are made for the pleasure of who gives them, not the merits of who receives them.</span></b><br><br><i> - Carlos Ruiz Zafon</i></div>
-<br><br><kbd>Last updated:Thu Jan 12 12:10:16 2023</kbd>
+<div align="center"><b><span>When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.</span></b><br><br><i> - Stephen King</i></div>
+<br><br><kbd>Last updated:Fri Jan 13 12:09:11 2023</kbd>
