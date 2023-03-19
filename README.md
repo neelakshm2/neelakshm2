@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Giving back involves a certain amount of giving up.</span></b><br><br><i> - Colin Powell</i></div>
-<br><br><kbd>Last updated:Sat Mar 18 12:08:08 2023</kbd>
+<div align="center"><b><span>Be fascinated instead of frustrated.</span></b><br><br><i> - Jim Rohn</i></div>
+<br><br><kbd>Last updated:Sun Mar 19 12:08:23 2023</kbd>
