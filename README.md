@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>If I can laugh, I can live.</span></b><br><br><i> - Christopher Reeve</i></div>
-<br><br><kbd>Last updated:Sun Apr  2 12:07:42 2023</kbd>
+<div align="center"><b><span>Ideas do not reach perfection in a day, no matter how much study is put upon them.</span></b><br><br><i> - Alexander Graham Bell</i></div>
+<br><br><kbd>Last updated:Mon Apr  3 12:09:05 2023</kbd>
