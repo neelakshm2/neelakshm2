@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Still your waters.</span></b><br><br><i> - Josh Waitzkin</i></div>
-<br><br><kbd>Last updated:Tue Apr 18 12:08:56 2023</kbd>
+<div align="center"><b><span>If you go out looking for friends, you're going to find they are very scarce. If you go out to be a friend, you'll find them everywhere.</span></b><br><br><i> - Zig Ziglar</i></div>
+<br><br><kbd>Last updated:Wed Apr 19 12:09:07 2023</kbd>
