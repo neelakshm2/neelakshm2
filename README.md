@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>When you judge another, you do not define them, you define yourself</span></b><br><br><i> - Wayne Dyer</i></div>
-<br><br><kbd>Last updated:Sat Apr 22 12:07:34 2023</kbd>
+<div align="center"><b><span>The only reason to be alive is to enjoy it.</span></b><br><br><i> - Rita Mae Brown</i></div>
+<br><br><kbd>Last updated:Sun Apr 23 12:07:56 2023</kbd>
