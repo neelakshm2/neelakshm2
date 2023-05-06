@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Throw your heart over the bar and your body will follow.</span></b><br><br><i> - Norman Vincent Peale</i></div>
-<br><br><kbd>Last updated:Fri May  5 12:08:28 2023</kbd>
+<div align="center"><b><span>If what you're doing is not your passion, you have nothing to lose.</span></b><br><br><i> - Celestine Chua</i></div>
+<br><br><kbd>Last updated:Sat May  6 12:07:48 2023</kbd>
