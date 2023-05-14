@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>People are doing the best that they can from their own level of consciousness.</span></b><br><br><i> - Deepak Chopra</i></div>
-<br><br><kbd>Last updated:Sat May 13 12:07:43 2023</kbd>
+<div align="center"><b><span>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</span></b><br><br><i> - Stephen King</i></div>
+<br><br><kbd>Last updated:Sun May 14 12:07:32 2023</kbd>
