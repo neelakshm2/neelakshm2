@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>In youth we run into difficulties. In old age difficulties run into us. </span></b><br><br><i> - Beverly Sills</i></div>
-<br><br><kbd>Last updated:Tue May 16 12:08:58 2023</kbd>
+<div align="center"><b><span>Sometimes you have to lose all you have to find out who you truly are.</span></b><br><br><i> - Roy T. Bennett</i></div>
+<br><br><kbd>Last updated:Wed May 17 12:08:35 2023</kbd>
