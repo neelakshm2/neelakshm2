@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Sometimes you have to lose all you have to find out who you truly are.</span></b><br><br><i> - Roy T. Bennett</i></div>
-<br><br><kbd>Last updated:Wed May 17 12:08:35 2023</kbd>
+<div align="center"><b><span>Pleasure can be supported by an illusion; but happiness rests upon truth. </span></b><br><br><i> - Nicolas Chamfort</i></div>
+<br><br><kbd>Last updated:Thu May 18 12:08:25 2023</kbd>
