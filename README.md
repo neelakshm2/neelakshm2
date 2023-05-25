@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along. </span></b><br><br><i> - Paramahansa Yogananda</i></div>
-<br><br><kbd>Last updated:Wed May 24 12:08:48 2023</kbd>
+<div align="center"><b><span>Be where your enemy is not.</span></b><br><br><i> - Sun Tzu</i></div>
+<br><br><kbd>Last updated:Thu May 25 12:08:49 2023</kbd>
