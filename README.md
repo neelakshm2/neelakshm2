@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Time goes from present to past.</span></b><br><br><i> - Shunryu Suzuki</i></div>
-<br><br><kbd>Last updated:Thu Jun  1 12:09:07 2023</kbd>
+<div align="center"><b><span>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</span></b><br><br><i> - Dogen</i></div>
+<br><br><kbd>Last updated:Fri Jun  2 12:08:39 2023</kbd>
