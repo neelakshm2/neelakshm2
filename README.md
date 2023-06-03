@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</span></b><br><br><i> - Dogen</i></div>
-<br><br><kbd>Last updated:Fri Jun  2 12:08:39 2023</kbd>
+<div align="center"><b><span>Dreams are the touchstones of our characters.</span></b><br><br><i> - Henry David Thoreau</i></div>
+<br><br><kbd>Last updated:Sat Jun  3 12:08:19 2023</kbd>
