@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Dreams are the touchstones of our characters.</span></b><br><br><i> - Henry David Thoreau</i></div>
-<br><br><kbd>Last updated:Sat Jun  3 12:08:19 2023</kbd>
+<div align="center"><b><span>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</span></b><br><br><i> - Bhagavad Gita</i></div>
+<br><br><kbd>Last updated:Sun Jun  4 12:07:30 2023</kbd>
