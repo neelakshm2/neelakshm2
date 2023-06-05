@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</span></b><br><br><i> - Bhagavad Gita</i></div>
-<br><br><kbd>Last updated:Sun Jun  4 12:07:30 2023</kbd>
+<div align="center"><b><span>There are two things a person should never be angry at, what they can help, and what they cannot.</span></b><br><br><i> - Plato</i></div>
+<br><br><kbd>Last updated:Mon Jun  5 12:09:46 2023</kbd>
