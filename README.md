@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>There are two things a person should never be angry at, what they can help, and what they cannot.</span></b><br><br><i> - Plato</i></div>
-<br><br><kbd>Last updated:Mon Jun  5 12:09:46 2023</kbd>
+<div align="center"><b><span>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</span></b><br><br><i> - Ming-Dao Deng</i></div>
+<br><br><kbd>Last updated:Tue Jun  6 12:08:41 2023</kbd>
