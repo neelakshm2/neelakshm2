@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Debt is the slavery of the free.</span></b><br><br><i> - Publilius Syrus</i></div>
-<br><br><kbd>Last updated:Mon Jun 12 12:09:08 2023</kbd>
+<div align="center"><b><span>Most people fail in life because they major in minor things.</span></b><br><br><i> - Tony Robbins</i></div>
+<br><br><kbd>Last updated:Tue Jun 13 12:08:55 2023</kbd>
