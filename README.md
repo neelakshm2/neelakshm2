@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>A self that goes on changing is a self that goes on living.</span></b><br><br><i> - Virginia Woolf</i></div>
-<br><br><kbd>Last updated:Mon Jun 19 12:10:18 2023</kbd>
+<div align="center"><b><span>Life happens in the river, not the shore.</span></b><br><br><i> - Maxime Lagace</i></div>
+<br><br><kbd>Last updated:Tue Jun 20 12:08:32 2023</kbd>
