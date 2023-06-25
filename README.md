@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>What a liberation to realize that 'the voice in my head' is not who I am. Who am I then? The one who sees that.</span></b><br><br><i> - Eckhart Tolle</i></div>
-<br><br><kbd>Last updated:Sat Jun 24 12:09:00 2023</kbd>
+<div align="center"><b><span>Wheels of justice grind slow but grind fine.</span></b><br><br><i> - Sun Tzu</i></div>
+<br><br><kbd>Last updated:Sun Jun 25 12:09:28 2023</kbd>
