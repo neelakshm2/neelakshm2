@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>When you have vision it affects your attitude. Your attitude is optimistic rather than pessimistic. </span></b><br><br><i> - Charles Swindoll</i></div>
-<br><br><kbd>Last updated:Wed Jul  5 12:11:42 2023</kbd>
+<div align="center"><b><span>The longer we dwell on our misfortunes, the greater is their power to harm us.</span></b><br><br><i> - Voltaire</i></div>
+<br><br><kbd>Last updated:Thu Jul  6 12:11:10 2023</kbd>
