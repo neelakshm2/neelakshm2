@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Most people fail in life not because they aim too high and miss, but because they aim too low and hit.</span></b><br><br><i> - Les Brown</i></div>
-<br><br><kbd>Last updated:Thu Jul 13 12:10:28 2023</kbd>
+<div align="center"><b><span>Sometimes out of your biggest misery, comes your greatest gain.</span></b><br><br><i> - Steve Harvey</i></div>
+<br><br><kbd>Last updated:Fri Jul 14 12:10:18 2023</kbd>
