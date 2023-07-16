@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>You will succeed because most people are lazy.</span></b><br><br><i> - Shahir Zag</i></div>
-<br><br><kbd>Last updated:Sat Jul 15 12:08:54 2023</kbd>
+<div align="center"><b><span>Well done is better than well said.</span></b><br><br><i> - Benjamin Franklin</i></div>
+<br><br><kbd>Last updated:Sun Jul 16 12:08:55 2023</kbd>
