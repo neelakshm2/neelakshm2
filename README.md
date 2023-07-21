@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>You're on earth. There's no cure for that.</span></b><br><br><i> - Samuel Beckett</i></div>
-<br><br><kbd>Last updated:Thu Jul 20 12:09:32 2023</kbd>
+<div align="center"><b><span>Everything eaten is killed. Every meal is a sacrifice.</span></b><br><br><i> - Adi Da Samraj</i></div>
+<br><br><kbd>Last updated:Fri Jul 21 12:08:52 2023</kbd>
