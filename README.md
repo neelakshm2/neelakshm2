@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Your work is to discover your work and then, with all your heart, to give yourself to it.</span></b><br><br><i> - Buddha</i></div>
-<br><br><kbd>Last updated:Sat Jul 22 12:07:40 2023</kbd>
+<div align="center"><b><span>Originality is the fine art of remembering what you hear but forgetting where you heard it. </span></b><br><br><i> - Laurence J. Peter</i></div>
+<br><br><kbd>Last updated:Sun Jul 23 12:07:39 2023</kbd>
