@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>To every action there is always opposed an equal reaction.</span></b><br><br><i> - Isaac Newton</i></div>
-<br><br><kbd>Last updated:Tue Jul 25 12:09:30 2023</kbd>
+<div align="center"><b><span>Creativity is the greatest rebellion in existence.</span></b><br><br><i> - Osho</i></div>
+<br><br><kbd>Last updated:Wed Jul 26 12:08:36 2023</kbd>
