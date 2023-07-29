@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Confidence comes from crossing thresholds.</span></b><br><br><i> - Kamal Ravikant</i></div>
-<br><br><kbd>Last updated:Fri Jul 28 12:09:23 2023</kbd>
+<div align="center"><b><span>What you do today can improve all your tomorrows.</span></b><br><br><i> - Ralph Marston</i></div>
+<br><br><kbd>Last updated:Sat Jul 29 12:08:07 2023</kbd>
