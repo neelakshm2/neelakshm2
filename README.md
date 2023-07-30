@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>What you do today can improve all your tomorrows.</span></b><br><br><i> - Ralph Marston</i></div>
-<br><br><kbd>Last updated:Sat Jul 29 12:08:07 2023</kbd>
+<div align="center"><b><span>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </span></b><br><br><i> - Herodotus</i></div>
+<br><br><kbd>Last updated:Sun Jul 30 12:07:37 2023</kbd>
