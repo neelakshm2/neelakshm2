@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't.</span></b><br><br><i> - Steve Maraboli</i></div>
-<br><br><kbd>Last updated:Tue Aug  1 12:08:58 2023</kbd>
+<div align="center"><b><span>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</span></b><br><br><i> - Marcus Aurelius</i></div>
+<br><br><kbd>Last updated:Wed Aug  2 12:08:39 2023</kbd>
