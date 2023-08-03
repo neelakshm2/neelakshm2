@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Think of yourself as dead. you have lived your life. Now, take what's left, and live it properly.</span></b><br><br><i> - Marcus Aurelius</i></div>
-<br><br><kbd>Last updated:Wed Aug  2 12:08:39 2023</kbd>
+<div align="center"><b><span>How many times do you have to get hit over the head until you figure out who's hitting you?</span></b><br><br><i> - Harry S. Truman</i></div>
+<br><br><kbd>Last updated:Thu Aug  3 12:09:14 2023</kbd>
