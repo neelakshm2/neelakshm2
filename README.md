@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The only limits in your life are those that you set yourself.</span></b><br><br><i> - Celestine Chua</i></div>
-<br><br><kbd>Last updated:Fri Aug  4 12:08:54 2023</kbd>
+<div align="center"><b><span>Among the things you can give and still keep are your word, a smile, and a grateful heart.</span></b><br><br><i> - Zig Ziglar</i></div>
+<br><br><kbd>Last updated:Sat Aug  5 12:07:16 2023</kbd>
