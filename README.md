@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Don't criticize what you can't understand. </span></b><br><br><i> - Bob Dylan</i></div>
-<br><br><kbd>Last updated:Wed Aug  9 12:09:18 2023</kbd>
+<div align="center"><b><span>Management is doing things right; leadership is doing the right things.</span></b><br><br><i> - Peter Drucker</i></div>
+<br><br><kbd>Last updated:Thu Aug 10 12:09:45 2023</kbd>
