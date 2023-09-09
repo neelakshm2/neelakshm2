@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Don't blame others. it won't make you a better person.</span></b><br><br><i> - Lolly Daskal</i></div>
-<br><br><kbd>Last updated:Fri Sep  8 12:08:47 2023</kbd>
+<div align="center"><b><span>A fall into a ditch makes you wiser.</span></b><br><br><i> - Chinese Proverb</i></div>
+<br><br><kbd>Last updated:Sat Sep  9 12:07:29 2023</kbd>
