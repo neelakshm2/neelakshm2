@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>One small positive thought can change your whole day.</span></b><br><br><i> - Zig Ziglar</i></div>
-<br><br><kbd>Last updated:Sun Sep 10 12:07:34 2023</kbd>
+<div align="center"><b><span>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</span></b><br><br><i> - William Faulkner</i></div>
+<br><br><kbd>Last updated:Mon Sep 11 12:09:00 2023</kbd>
