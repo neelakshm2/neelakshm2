@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Never whine, never complain, never try to justify yourself.</span></b><br><br><i> - Robert Greene</i></div>
-<br><br><kbd>Last updated:Thu Sep 21 12:09:04 2023</kbd>
+<div align="center"><b><span>There is no greatness where there is not simplicity, goodness, and truth.</span></b><br><br><i> - Leo Tolstoy</i></div>
+<br><br><kbd>Last updated:Fri Sep 22 12:08:53 2023</kbd>
