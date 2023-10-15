@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>When it is dark enough, you can see the stars.</span></b><br><br><i> - Ralph Waldo Emerson</i></div>
-<br><br><kbd>Last updated:Sat Oct 14 12:08:08 2023</kbd>
+<div align="center"><b><span>Life is trying things to see if they work.</span></b><br><br><i> - Ray Bradbury</i></div>
+<br><br><kbd>Last updated:Sun Oct 15 12:08:15 2023</kbd>
