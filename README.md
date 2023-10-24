@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Life is not always a matter of holding good cards, but sometimes, playing a poor hand well. </span></b><br><br><i> - Jack London</i></div>
-<br><br><kbd>Last updated:Mon Oct 23 12:09:47 2023</kbd>
+<div align="center"><b><span>Greatest success comes just one step beyond the point at which defeat overtakes you.</span></b><br><br><i> - Unknown</i></div>
+<br><br><kbd>Last updated:Tue Oct 24 12:08:59 2023</kbd>
