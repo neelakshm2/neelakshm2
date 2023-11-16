@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</span></b><br><br><i> - Og Mandino</i></div>
-<br><br><kbd>Last updated:Wed Nov 15 12:09:34 2023</kbd>
+<div align="center"><b><span>Dream big. Start small. But most of all, start.</span></b><br><br><i> - Simon Sinek</i></div>
+<br><br><kbd>Last updated:Thu Nov 16 12:09:35 2023</kbd>
