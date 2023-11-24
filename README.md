@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The greatest weariness comes from work not done.</span></b><br><br><i> - Eric Hoffer</i></div>
-<br><br><kbd>Last updated:Thu Nov 23 12:09:27 2023</kbd>
+<div align="center"><b><span>The Truth is realized in an instant; the Act is practiced step by step.</span></b><br><br><i> - Seungsahn</i></div>
+<br><br><kbd>Last updated:Fri Nov 24 12:09:31 2023</kbd>
