@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It doesn't matter where you are, you are nowhere compared to where you can go.</span></b><br><br><i> - Bob Proctor</i></div>
-<br><br><kbd>Last updated:Wed Nov 29 12:09:46 2023</kbd>
+<div align="center"><b><span>What's the point in being smart enough to read, if everything you read makes you dumb?</span></b><br><br><i> - C. Sean McGee</i></div>
+<br><br><kbd>Last updated:Thu Nov 30 12:09:39 2023</kbd>
