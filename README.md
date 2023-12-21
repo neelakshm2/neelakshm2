@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Luck is a matter of preparation meeting opportunity.</span></b><br><br><i> - Oprah Winfrey</i></div>
-<br><br><kbd>Last updated:Wed Dec 20 12:08:02 2023</kbd>
+<div align="center"><b><span>You'll get more from being a peacemaker than a warrior.</span></b><br><br><i> - Arnold Schwarzenegger</i></div>
+<br><br><kbd>Last updated:Thu Dec 21 12:09:19 2023</kbd>
