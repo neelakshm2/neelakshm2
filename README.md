@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>We have to live life with a sense of urgency so not a minute is wasted.</span></b><br><br><i> - Les Brown</i></div>
-<br><br><kbd>Last updated:Sun Dec 31 12:08:17 2023</kbd>
+<div align="center"><b><span>You have to make time, even for something as universal as staring at the stars.</span></b><br><br><i> - W.P. Kinsella</i></div>
+<br><br><kbd>Last updated:Mon Jan  1 12:09:28 2024</kbd>
