@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>He who cheats the earth will be cheated by the earth.</span></b><br><br><i> - Chinese Proverb</i></div>
-<br><br><kbd>Last updated:Tue Jan  2 12:09:05 2024</kbd>
+<div align="center"><b><span>Far more crucial than what we know or do not know is what we do not want to know.</span></b><br><br><i> - Eric Hoffer</i></div>
+<br><br><kbd>Last updated:Wed Jan  3 12:09:19 2024</kbd>
