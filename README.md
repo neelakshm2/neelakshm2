@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Silence is a source of great strength.</span></b><br><br><i> - Lao Tzu</i></div>
-<br><br><kbd>Last updated:Wed Jan 17 12:09:56 2024</kbd>
+<div align="center"><b><span>Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.</span></b><br><br><i> - Robert Greene</i></div>
+<br><br><kbd>Last updated:Thu Jan 18 12:10:10 2024</kbd>
