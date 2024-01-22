@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The friendship that can cease has never been real. </span></b><br><br><i> - St. Jerome</i></div>
-<br><br><kbd>Last updated:Sun Jan 21 12:08:56 2024</kbd>
+<div align="center"><b><span>You need to be doing fewer things for more effect instead of doing more things with side effects.</span></b><br><br><i> - Gary Keller</i></div>
+<br><br><kbd>Last updated:Mon Jan 22 12:10:16 2024</kbd>
