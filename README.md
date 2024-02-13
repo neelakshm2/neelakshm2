@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>We are all self-made, but only the successful will admit it.</span></b><br><br><i> - Earl Nightingale</i></div>
-<br><br><kbd>Last updated:Mon Feb 12 12:09:26 2024</kbd>
+<div align="center"><b><span>All leaders are readers.</span></b><br><br><i> - Jim Rohn</i></div>
+<br><br><kbd>Last updated:Tue Feb 13 12:08:50 2024</kbd>
