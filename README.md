@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>All leaders are readers.</span></b><br><br><i> - Jim Rohn</i></div>
-<br><br><kbd>Last updated:Tue Feb 13 12:08:50 2024</kbd>
+<div align="center"><b><span>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</span></b><br><br><i> - Jonathan Swift</i></div>
+<br><br><kbd>Last updated:Wed Feb 14 12:09:40 2024</kbd>
