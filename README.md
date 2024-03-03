@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It doesn't matter where you are coming from. All that matters is where you are going. </span></b><br><br><i> - Brian Tracy</i></div>
-<br><br><kbd>Last updated:Sat Mar  2 12:07:49 2024</kbd>
+<div align="center"><b><span>You don't need a weatherman to know which way the wind blows.</span></b><br><br><i> - Bob Dylan</i></div>
+<br><br><kbd>Last updated:Sun Mar  3 12:08:40 2024</kbd>
