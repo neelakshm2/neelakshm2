@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>You don't need a weatherman to know which way the wind blows.</span></b><br><br><i> - Bob Dylan</i></div>
-<br><br><kbd>Last updated:Sun Mar  3 12:08:40 2024</kbd>
+<div align="center"><b><span>Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work.</span></b><br><br><i> - John Eliot</i></div>
+<br><br><kbd>Last updated:Mon Mar  4 12:15:42 2024</kbd>
