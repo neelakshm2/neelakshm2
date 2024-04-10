@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>He who wishes to be obeyed must know how to command.</span></b><br><br><i> - Niccolo Machiavelli</i></div>
-<br><br><kbd>Last updated:Tue Apr  9 12:10:10 2024</kbd>
+<div align="center"><b><span>I can live without money, but I cannot live without love.</span></b><br><br><i> - Judy Garland</i></div>
+<br><br><kbd>Last updated:Wed Apr 10 12:09:48 2024</kbd>
