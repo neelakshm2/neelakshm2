@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Respect was invented to cover the empty place where love should be.</span></b><br><br><i> - Leo Tolstoy</i></div>
-<br><br><kbd>Last updated:Mon Apr 15 12:11:12 2024</kbd>
+<div align="center"><b><span>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</span></b><br><br><i> - G.I. Gurdjieff</i></div>
+<br><br><kbd>Last updated:Tue Apr 16 12:09:40 2024</kbd>
