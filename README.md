@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Even if you persuade me, you won't persuade me.</span></b><br><br><i> - Aristophanes</i></div>
-<br><br><kbd>Last updated:Wed Apr 24 12:11:16 2024</kbd>
+<div align="center"><b><span>In the middle of difficulty lies opportunity.</span></b><br><br><i> - Albert Einstein</i></div>
+<br><br><kbd>Last updated:Thu Apr 25 12:08:51 2024</kbd>
