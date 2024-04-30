@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Those who cannot change their minds cannot change anything.</span></b><br><br><i> - George Bernard Shaw</i></div>
-<br><br><kbd>Last updated:Mon Apr 29 12:10:10 2024</kbd>
+<div align="center"><b><span>Duty makes us do things well, but love makes us do them beautifully.  </span></b><br><br><i> - Zig Ziglar</i></div>
+<br><br><kbd>Last updated:Tue Apr 30 12:08:45 2024</kbd>
