@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Your best life will not be found in comfort. It will be found in fighting for what you believe in.</span></b><br><br><i> - Maxime Lagace</i></div>
-<br><br><kbd>Last updated:Thu May  2 12:10:23 2024</kbd>
+<div align="center"><b><span>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</span></b><br><br><i> - Sun Tzu</i></div>
+<br><br><kbd>Last updated:Fri May  3 12:09:18 2024</kbd>
