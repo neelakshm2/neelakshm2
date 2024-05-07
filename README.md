@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It's the possibility of having a dream come true that makes life interesting.</span></b><br><br><i> - Paulo Coelho</i></div>
-<br><br><kbd>Last updated:Mon May  6 12:10:24 2024</kbd>
+<div align="center"><b><span>20 percent of your activities will account for 80 percent of your results.</span></b><br><br><i> - Brian Tracy</i></div>
+<br><br><kbd>Last updated:Tue May  7 12:10:08 2024</kbd>
