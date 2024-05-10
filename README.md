@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The majority of what you want will come from the minority of what you do.</span></b><br><br><i> - Gary Keller</i></div>
-<br><br><kbd>Last updated:Thu May  9 12:10:00 2024</kbd>
+<div align="center"><b><span>We don't stop playing because we grow old; we grow old because we stop playing.</span></b><br><br><i> - George Bernard Shaw</i></div>
+<br><br><kbd>Last updated:Fri May 10 12:09:39 2024</kbd>
