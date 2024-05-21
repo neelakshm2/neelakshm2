@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Human beings believe just as they breathe - in order to survive.</span></b><br><br><i> - Carlos Ruiz Zafon</i></div>
-<br><br><kbd>Last updated:Mon May 20 12:12:10 2024</kbd>
+<div align="center"><b><span>Being In The Present Means Tuning Out Distractions And Paying Attention To What Is Important, Now.</span></b><br><br><i> - Spencer Johnson</i></div>
+<br><br><kbd>Last updated:Tue May 21 12:10:25 2024</kbd>
