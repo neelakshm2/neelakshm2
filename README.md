@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Thinking will not overcome fear but action will. </span></b><br><br><i> - W. Clement Stone</i></div>
-<br><br><kbd>Last updated:Sun May 26 12:09:23 2024</kbd>
+<div align="center"><b><span>To some degree, you control your life by controlling your time.</span></b><br><br><i> - Conrad Hilton</i></div>
+<br><br><kbd>Last updated:Mon May 27 12:10:47 2024</kbd>
