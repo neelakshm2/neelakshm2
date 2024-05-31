@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Everyone is a moon, and has a dark side which he never shows to anybody.</span></b><br><br><i> - Mark Twain</i></div>
-<br><br><kbd>Last updated:Thu May 30 12:10:49 2024</kbd>
+<div align="center"><b><span>Time goes from present to past.</span></b><br><br><i> - Shunryu Suzuki</i></div>
+<br><br><kbd>Last updated:Fri May 31 12:10:31 2024</kbd>
