@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Most people fail in life because they major in minor things.</span></b><br><br><i> - Tony Robbins</i></div>
-<br><br><kbd>Last updated:Wed Jun 12 12:10:49 2024</kbd>
+<div align="center"><b><span>The key to success is action.</span></b><br><br><i> - Brian Tracy</i></div>
+<br><br><kbd>Last updated:Thu Jun 13 12:11:06 2024</kbd>
