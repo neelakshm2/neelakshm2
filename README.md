@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>In the middle of chaos lies opportunity.  </span></b><br><br><i> - Bruce Lee</i></div>
-<br><br><kbd>Last updated:Thu Jun 20 12:11:03 2024</kbd>
+<div align="center"><b><span>If you chase two rabbits, you catch none.</span></b><br><br><i> - Confucius</i></div>
+<br><br><kbd>Last updated:Fri Jun 21 12:10:23 2024</kbd>
