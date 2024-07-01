@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Some of us learn from other people's mistakes and the rest of us have to be other people.  </span></b><br><br><i> - Zig Ziglar</i></div>
-<br><br><kbd>Last updated:Sun Jun 30 12:10:29 2024</kbd>
+<div align="center"><b><span>Intelligence, imagination, and knowledge are essential resources, but only effectiveness converts them into results.</span></b><br><br><i> - Peter Drucker</i></div>
+<br><br><kbd>Last updated:Mon Jul  1 12:12:18 2024</kbd>
