@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Always focus on the front windshield and not the rear view mirror.</span></b><br><br><i> - Colin Powell</i></div>
-<br><br><kbd>Last updated:Tue Jul  2 12:11:16 2024</kbd>
+<div align="center"><b><span>Not all those who wander are lost.</span></b><br><br><i> - J.R.R. Tolkien</i></div>
+<br><br><kbd>Last updated:Wed Jul  3 12:11:27 2024</kbd>
