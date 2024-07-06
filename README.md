@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The longer we dwell on our misfortunes, the greater is their power to harm us.</span></b><br><br><i> - Voltaire</i></div>
-<br><br><kbd>Last updated:Fri Jul  5 12:10:43 2024</kbd>
+<div align="center"><b><span>Life is a challenge, meet it! Life is a dream, realize it! Life is a game, play it! Life is love, enjoy it!</span></b><br><br><i> - Sathya Sai Baba</i></div>
+<br><br><kbd>Last updated:Sat Jul  6 12:09:31 2024</kbd>
