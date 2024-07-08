@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Great things are not done by impulse, but by a series of small things brought together.</span></b><br><br><i> - Vincent van Gogh</i></div>
-<br><br><kbd>Last updated:Sun Jul  7 12:09:38 2024</kbd>
+<div align="center"><b><span>Troubles are often the tools by which God fashions us for better things.</span></b><br><br><i> - Henry Ward Beecher</i></div>
+<br><br><kbd>Last updated:Mon Jul  8 12:11:51 2024</kbd>
