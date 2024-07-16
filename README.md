@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Well done is better than well said.</span></b><br><br><i> - Benjamin Franklin</i></div>
-<br><br><kbd>Last updated:Mon Jul 15 12:11:56 2024</kbd>
+<div align="center"><b><span>Ponder and deliberate before you make a move.</span></b><br><br><i> - Sun Tzu</i></div>
+<br><br><kbd>Last updated:Tue Jul 16 12:10:33 2024</kbd>
