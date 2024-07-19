@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Words used to attract the dull of wit are not to be relied on.</span></b><br><br><i> - Huang Po</i></div>
-<br><br><kbd>Last updated:Thu Jul 18 12:11:51 2024</kbd>
+<div align="center"><b><span>You're on earth. There's no cure for that.</span></b><br><br><i> - Samuel Beckett</i></div>
+<br><br><kbd>Last updated:Fri Jul 19 12:10:48 2024</kbd>
