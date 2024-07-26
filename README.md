@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Creativity is the greatest rebellion in existence.</span></b><br><br><i> - Osho</i></div>
-<br><br><kbd>Last updated:Thu Jul 25 12:11:20 2024</kbd>
+<div align="center"><b><span>Be the silent watcher of your thoughts and behavior. You are beneath the thinker.</span></b><br><br><i> - Eckhart Tolle</i></div>
+<br><br><kbd>Last updated:Fri Jul 26 12:10:52 2024</kbd>
