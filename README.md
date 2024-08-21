@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>You can avoid reality, but you cannot avoid the consequences of avoiding reality.</span></b><br><br><i> - Ayn Rand</i></div>
-<br><br><kbd>Last updated:Tue Aug 20 12:12:26 2024</kbd>
+<div align="center"><b><span>A man who cannot tolerate small misfortunes can never accomplish great things.</span></b><br><br><i> - Chinese Proverb</i></div>
+<br><br><kbd>Last updated:Wed Aug 21 12:11:10 2024</kbd>
