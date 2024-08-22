@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>A man who cannot tolerate small misfortunes can never accomplish great things.</span></b><br><br><i> - Chinese Proverb</i></div>
-<br><br><kbd>Last updated:Wed Aug 21 12:11:10 2024</kbd>
+<div align="center"><b><span>Do the hard jobs first. The easy jobs will take care of themselves.</span></b><br><br><i> - Dale Carnegie</i></div>
+<br><br><kbd>Last updated:Thu Aug 22 12:11:32 2024</kbd>
