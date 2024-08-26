@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Rather than waste time and energy worrying, use that time and energy to constructively deal with whatever is causing the worry.</span></b><br><br><i> - Celestine Chua</i></div>
-<br><br><kbd>Last updated:Sun Aug 25 12:10:24 2024</kbd>
+<div align="center"><b><span>Keep your face to the sunshine and you cannot see the shadows.</span></b><br><br><i> - Helen Keller</i></div>
+<br><br><kbd>Last updated:Mon Aug 26 12:12:05 2024</kbd>
