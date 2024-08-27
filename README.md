@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Keep your face to the sunshine and you cannot see the shadows.</span></b><br><br><i> - Helen Keller</i></div>
-<br><br><kbd>Last updated:Mon Aug 26 12:12:05 2024</kbd>
+<div align="center"><b><span>Behind every beautiful thing, there's some kind of pain.</span></b><br><br><i> - Bob Dylan</i></div>
+<br><br><kbd>Last updated:Tue Aug 27 12:11:34 2024</kbd>
