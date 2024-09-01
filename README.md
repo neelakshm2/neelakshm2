@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work.  </span></b><br><br><i> - Estee Lauder</i></div>
-<br><br><kbd>Last updated:Sat Aug 31 12:10:31 2024</kbd>
+<div align="center"><b><span>The trouble with the rat race is that even if you win, you're still a rat.</span></b><br><br><i> - Lily Tomlin</i></div>
+<br><br><kbd>Last updated:Sun Sep  1 12:10:31 2024</kbd>
