@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>A lot of people have gone further than they thought they could because someone else thought they could.</span></b><br><br><i> - Zig Ziglar</i></div>
-<br><br><kbd>Last updated:Wed Sep  4 12:13:09 2024</kbd>
+<div align="center"><b><span>If no one ever broke the rules, then we'd never advance.</span></b><br><br><i> - Simon Sinek</i></div>
+<br><br><kbd>Last updated:Thu Sep  5 12:12:24 2024</kbd>
