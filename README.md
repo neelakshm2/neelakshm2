@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>A gentleman accepts the responsibility of his actions and bears the burden of their consequences.</span></b><br><br><i> - William Faulkner</i></div>
-<br><br><kbd>Last updated:Tue Sep 10 12:14:08 2024</kbd>
+<div align="center"><b><span>Don't try to steer the river.</span></b><br><br><i> - Deepak Chopra</i></div>
+<br><br><kbd>Last updated:Wed Sep 11 12:12:24 2024</kbd>
