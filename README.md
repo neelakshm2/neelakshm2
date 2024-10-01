@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Don't let the past steal your present.</span></b><br><br><i> - Cherralea Morgen</i></div>
-<br><br><kbd>Last updated:Mon Sep 30 12:14:06 2024</kbd>
+<div align="center"><b><span>He that can have patience can have what he will.</span></b><br><br><i> - Benjamin Franklin</i></div>
+<br><br><kbd>Last updated:Tue Oct  1 12:13:34 2024</kbd>
