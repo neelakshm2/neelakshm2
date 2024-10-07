@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Listen to the secret sound, the real sound, which is inside you.</span></b><br><br><i> - Kabir</i></div>
-<br><br><kbd>Last updated:Sun Oct  6 12:11:20 2024</kbd>
+<div align="center"><b><span>The eyes of others our prisons; their thoughts our cages.</span></b><br><br><i> - Virginia Woolf</i></div>
+<br><br><kbd>Last updated:Mon Oct  7 12:13:37 2024</kbd>
