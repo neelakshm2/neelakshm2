@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh.</span></b><br><br><i> - Pema Chodron</i></div>
-<br><br><kbd>Last updated:Thu Oct 10 12:13:16 2024</kbd>
+<div align="center"><b><span>You must learn to let go. Release the stress. You were never in control anyway.</span></b><br><br><i> - Steve Maraboli</i></div>
+<br><br><kbd>Last updated:Fri Oct 11 12:12:54 2024</kbd>
