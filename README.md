@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Excellence is not a skill. It is an attitude. </span></b><br><br><i> - Ralph Marston</i></div>
-<br><br><kbd>Last updated:Wed Oct 16 12:13:22 2024</kbd>
+<div align="center"><b><span>Forgive those who have hurt you.</span></b><br><br><i> - Les Brown</i></div>
+<br><br><kbd>Last updated:Thu Oct 17 12:13:19 2024</kbd>
