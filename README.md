@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Life must be rich and full of loving-it's no good otherwise, no good at all, for anyone.  </span></b><br><br><i> - Jack Kerouac</i></div>
-<br><br><kbd>Last updated:Thu Oct 31 12:13:22 2024</kbd>
+<div align="center"><b><span>A lie can travel half way around the world while the truth is putting on its shoes.</span></b><br><br><i> - Mark Twain</i></div>
+<br><br><kbd>Last updated:Fri Nov  1 12:13:30 2024</kbd>
