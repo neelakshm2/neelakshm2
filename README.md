@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Being spiritual has nothing to do with what you believe and everything to do with your state of consciousness.</span></b><br><br><i> - Eckhart Tolle</i></div>
-<br><br><kbd>Last updated:Tue Nov  5 12:13:40 2024</kbd>
+<div align="center"><b><span>He who knows best knows how little he knows.</span></b><br><br><i> - Thomas Jefferson</i></div>
+<br><br><kbd>Last updated:Wed Nov  6 12:13:14 2024</kbd>
