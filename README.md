@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>No man can get rich himself unless he enriches others.</span></b><br><br><i> - Earl Nightingale</i></div>
-<br><br><kbd>Last updated:Wed Nov 13 12:13:26 2024</kbd>
+<div align="center"><b><span>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</span></b><br><br><i> - Og Mandino</i></div>
+<br><br><kbd>Last updated:Thu Nov 14 12:13:46 2024</kbd>
