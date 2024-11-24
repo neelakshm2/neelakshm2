@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The Truth is realized in an instant; the Act is practiced step by step.</span></b><br><br><i> - Seungsahn</i></div>
-<br><br><kbd>Last updated:Sat Nov 23 12:12:01 2024</kbd>
+<div align="center"><b><span>Before anything else, preparation is the key to success.</span></b><br><br><i> - Alexander Graham Bell</i></div>
+<br><br><kbd>Last updated:Sun Nov 24 12:13:03 2024</kbd>
