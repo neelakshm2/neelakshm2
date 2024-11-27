@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The way out is in.</span></b><br><br><i> - Thich Nhat Hanh</i></div>
-<br><br><kbd>Last updated:Tue Nov 26 12:14:23 2024</kbd>
+<div align="center"><b><span>Best be yourself, imperial, plain, and true.</span></b><br><br><i> - Robert Browning</i></div>
+<br><br><kbd>Last updated:Wed Nov 27 12:14:28 2024</kbd>
