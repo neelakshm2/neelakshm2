@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Believe in one thing too much and you have no room for new ideas.  </span></b><br><br><i> - Ray Bradbury</i></div>
-<br><br><kbd>Last updated:Mon Dec  2 12:14:57 2024</kbd>
+<div align="center"><b><span>Problems remain as problems because people are busy defending them rather than finding solutions.</span></b><br><br><i> - Celestine Chua</i></div>
+<br><br><kbd>Last updated:Tue Dec  3 12:14:22 2024</kbd>
