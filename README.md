@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.</span></b><br><br><i> - Elbert Hubbard</i></div>
-<br><br><kbd>Last updated:Fri Dec 13 12:14:20 2024</kbd>
+<div align="center"><b><span>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</span></b><br><br><i> - Dogen</i></div>
+<br><br><kbd>Last updated:Sat Dec 14 12:12:23 2024</kbd>
