@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</span></b><br><br><i> - Dogen</i></div>
-<br><br><kbd>Last updated:Sat Dec 14 12:12:23 2024</kbd>
+<div align="center"><b><span>Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself.</span></b><br><br><i> - Samuel Butler</i></div>
+<br><br><kbd>Last updated:Sun Dec 15 12:12:45 2024</kbd>
