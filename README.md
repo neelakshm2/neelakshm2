@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>We can see through others only when we can see through ourselves.</span></b><br><br><i> - Bruce Lee</i></div>
-<br><br><kbd>Last updated:Tue Dec 17 12:14:30 2024</kbd>
+<div align="center"><b><span>Whatever you are, be a good one.</span></b><br><br><i> - Abraham Lincoln</i></div>
+<br><br><kbd>Last updated:Wed Dec 18 12:14:08 2024</kbd>
