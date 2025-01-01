@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</span></b><br><br><i> - Carlos Ruiz Zafon</i></div>
-<br><br><kbd>Last updated:Tue Dec 31 12:13:01 2024</kbd>
+<div align="center"><b><span>You have to make time, even for something as universal as staring at the stars.</span></b><br><br><i> - W.P. Kinsella</i></div>
+<br><br><kbd>Last updated:Wed Jan  1 12:12:54 2025</kbd>
