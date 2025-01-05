@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Age is a very high price to pay for maturity.</span></b><br><br><i> - William James</i></div>
-<br><br><kbd>Last updated:Sat Jan  4 12:11:33 2025</kbd>
+<div align="center"><b><span>When the world pushes you to your knees, you're in the perfect position to pray.</span></b><br><br><i> - Rumi</i></div>
+<br><br><kbd>Last updated:Sun Jan  5 12:11:48 2025</kbd>
