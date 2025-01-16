@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>To do two things at once is to do neither.</span></b><br><br><i> - Publilius Syrus</i></div>
-<br><br><kbd>Last updated:Wed Jan 15 12:13:02 2025</kbd>
+<div align="center"><b><span>The goal is not to be perfect by the end, the goal is to be better today.</span></b><br><br><i> - Simon Sinek</i></div>
+<br><br><kbd>Last updated:Thu Jan 16 12:13:00 2025</kbd>
