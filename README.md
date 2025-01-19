@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Life goes by very fast. And the worst thing in life that you can have is a job that you hate, and have no energy and creativity in.</span></b><br><br><i> - Robert Greene</i></div>
-<br><br><kbd>Last updated:Sat Jan 18 12:10:56 2025</kbd>
+<div align="center"><b><span>It's better to dance than to march through life.</span></b><br><br><i> - Yoko Ono</i></div>
+<br><br><kbd>Last updated:Sun Jan 19 12:11:16 2025</kbd>
