@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</span></b><br><br><i> - Robert Greene</i></div>
-<br><br><kbd>Last updated:Thu Jan 23 12:13:23 2025</kbd>
+<div align="center"><b><span>The human mind defines things in relation to one another - without light the notion of darkness would be unintelligible.</span></b><br><br><i> - Josh Waitzkin</i></div>
+<br><br><kbd>Last updated:Fri Jan 24 12:13:02 2025</kbd>
