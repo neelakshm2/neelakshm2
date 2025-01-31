@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Your only obligation in any lifetime is to be true to yourself.</span></b><br><br><i> - Richard Bach</i></div>
-<br><br><kbd>Last updated:Thu Jan 30 12:13:19 2025</kbd>
+<div align="center"><b><span>Know yourself and you will win all battles.</span></b><br><br><i> - Sun Tzu</i></div>
+<br><br><kbd>Last updated:Fri Jan 31 12:12:44 2025</kbd>
