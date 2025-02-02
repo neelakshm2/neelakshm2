@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>What you get by achieving your goals is not as important as what you become by achieving your goals.</span></b><br><br><i> - Henry David Thoreau</i></div>
-<br><br><kbd>Last updated:Sat Feb  1 12:11:18 2025</kbd>
+<div align="center"><b><span>No one can hurt you without your consent.</span></b><br><br><i> - Eleanor Roosevelt</i></div>
+<br><br><kbd>Last updated:Sun Feb  2 12:11:08 2025</kbd>
