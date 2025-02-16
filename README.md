@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>If a thing is worth doing, it is worth doing badly.</span></b><br><br><i> - Gilbert Chesterton</i></div>
-<br><br><kbd>Last updated:Sat Feb 15 12:11:37 2025</kbd>
+<div align="center"><b><span>We are all born ignorant, but one must work hard to remain stupid.</span></b><br><br><i> - Benjamin Franklin</i></div>
+<br><br><kbd>Last updated:Sun Feb 16 12:13:56 2025</kbd>
