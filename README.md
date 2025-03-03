@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The pain of parting is nothing to the joy of meeting again.</span></b><br><br><i> - Charles Dickens</i></div>
-<br><br><kbd>Last updated:Sun Mar  2 12:12:04 2025</kbd>
+<div align="center"><b><span>It doesn't matter where you are coming from. All that matters is where you are going. </span></b><br><br><i> - Brian Tracy</i></div>
+<br><br><kbd>Last updated:Mon Mar  3 12:14:15 2025</kbd>
