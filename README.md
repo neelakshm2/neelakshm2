@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The world doesn't always give you want, but it often gives you what you need.</span></b><br><br><i> - Naval Ravikant</i></div>
-<br><br><kbd>Last updated:Fri Mar  7 12:13:41 2025</kbd>
+<div align="center"><b><span>Everything flows, nothing stands still.</span></b><br><br><i> - Heraclitus</i></div>
+<br><br><kbd>Last updated:Sat Mar  8 12:09:51 2025</kbd>
