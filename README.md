@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>You'll see it when you believe it. </span></b><br><br><i> - Wayne Dyer</i></div>
-<br><br><kbd>Last updated:Sun Mar  9 12:09:51 2025</kbd>
+<div align="center"><b><span>We can spend our whole lives escaping from the monsters of our minds.</span></b><br><br><i> - Pema Chodron</i></div>
+<br><br><kbd>Last updated:Mon Mar 10 12:14:09 2025</kbd>
