@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>We can spend our whole lives escaping from the monsters of our minds.</span></b><br><br><i> - Pema Chodron</i></div>
-<br><br><kbd>Last updated:Mon Mar 10 12:14:09 2025</kbd>
+<div align="center"><b><span>We cannot change anything unless we accept it.</span></b><br><br><i> - Carl Jung</i></div>
+<br><br><kbd>Last updated:Tue Mar 11 12:14:19 2025</kbd>
