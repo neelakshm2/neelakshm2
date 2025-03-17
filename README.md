@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</span></b><br><br><i> - Emily Dickinson</i></div>
-<br><br><kbd>Last updated:Sun Mar 16 12:12:08 2025</kbd>
+<div align="center"><b><span>Your happiness is what truly matters most. Do what you have to do in order to be happy.</span></b><br><br><i> - Brian Tracy</i></div>
+<br><br><kbd>Last updated:Mon Mar 17 12:14:37 2025</kbd>
