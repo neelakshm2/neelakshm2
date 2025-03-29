@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Intense love does not measure, it just gives.</span></b><br><br><i> - Mother Teresa</i></div>
-<br><br><kbd>Last updated:Fri Mar 28 12:13:56 2025</kbd>
+<div align="center"><b><span>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</span></b><br><br><i> - Brian Tracy</i></div>
+<br><br><kbd>Last updated:Sat Mar 29 12:12:28 2025</kbd>
