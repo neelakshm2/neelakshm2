@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday.</span></b><br><br><i> - Brian Tracy</i></div>
-<br><br><kbd>Last updated:Sat Mar 29 12:12:28 2025</kbd>
+<div align="center"><b><span>Success is about creating value.</span></b><br><br><i> - Candice Carpenter</i></div>
+<br><br><kbd>Last updated:Sun Mar 30 12:12:34 2025</kbd>
