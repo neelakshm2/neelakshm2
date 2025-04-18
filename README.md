@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Without struggle, no progress and no result. Every breaking of habit produces a change in the machine.</span></b><br><br><i> - G.I. Gurdjieff</i></div>
-<br><br><kbd>Last updated:Thu Apr 17 12:14:41 2025</kbd>
+<div align="center"><b><span>Still your waters.</span></b><br><br><i> - Josh Waitzkin</i></div>
+<br><br><kbd>Last updated:Fri Apr 18 12:14:14 2025</kbd>
