@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Amateurs sit and wait for inspiration, the rest of us just get up and got to work.</span></b><br><br><i> - Stephen King</i></div>
-<br><br><kbd>Last updated:Wed May 14 12:15:11 2025</kbd>
+<div align="center"><b><span>The future belongs to those who learn more skills and combine them in creative ways.</span></b><br><br><i> - Robert Greene</i></div>
+<br><br><kbd>Last updated:Thu May 15 12:15:29 2025</kbd>
