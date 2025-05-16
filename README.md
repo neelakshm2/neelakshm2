@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The future belongs to those who learn more skills and combine them in creative ways.</span></b><br><br><i> - Robert Greene</i></div>
-<br><br><kbd>Last updated:Thu May 15 12:15:29 2025</kbd>
+<div align="center"><b><span>In youth we run into difficulties. In old age difficulties run into us. </span></b><br><br><i> - Beverly Sills</i></div>
+<br><br><kbd>Last updated:Fri May 16 12:15:58 2025</kbd>
