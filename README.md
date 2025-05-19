@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Pleasure can be supported by an illusion; but happiness rests upon truth. </span></b><br><br><i> - Nicolas Chamfort</i></div>
-<br><br><kbd>Last updated:Sun May 18 12:13:48 2025</kbd>
+<div align="center"><b><span>Nothing good ever comes of violence.</span></b><br><br><i> - Martin Luther</i></div>
+<br><br><kbd>Last updated:Mon May 19 12:16:09 2025</kbd>
