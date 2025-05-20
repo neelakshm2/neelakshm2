@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Nothing good ever comes of violence.</span></b><br><br><i> - Martin Luther</i></div>
-<br><br><kbd>Last updated:Mon May 19 12:16:09 2025</kbd>
+<div align="center"><b><span>An investment in knowledge pays the best interest.</span></b><br><br><i> - Benjamin Franklin</i></div>
+<br><br><kbd>Last updated:Tue May 20 12:15:57 2025</kbd>
