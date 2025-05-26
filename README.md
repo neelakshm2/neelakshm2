@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Be where your enemy is not.</span></b><br><br><i> - Sun Tzu</i></div>
-<br><br><kbd>Last updated:Sun May 25 12:13:42 2025</kbd>
+<div align="center"><b><span>Deliberately seek the company of people who influence you to think and act on building the life you desire.</span></b><br><br><i> - Napoleon Hill</i></div>
+<br><br><kbd>Last updated:Mon May 26 12:14:59 2025</kbd>
