@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It's not what you pay a man, but what he costs you that counts.</span></b><br><br><i> - Will Rogers</i></div>
-<br><br><kbd>Last updated:Tue Jun 17 12:16:49 2025</kbd>
+<div align="center"><b><span>You can tell more about a person by what he says about others than you can by what others say about him.</span></b><br><br><i> - Audrey Hepburn</i></div>
+<br><br><kbd>Last updated:Wed Jun 18 12:16:31 2025</kbd>
