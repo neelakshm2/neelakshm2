@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>You can tell more about a person by what he says about others than you can by what others say about him.</span></b><br><br><i> - Audrey Hepburn</i></div>
-<br><br><kbd>Last updated:Wed Jun 18 12:16:31 2025</kbd>
+<div align="center"><b><span>A self that goes on changing is a self that goes on living.</span></b><br><br><i> - Virginia Woolf</i></div>
+<br><br><kbd>Last updated:Thu Jun 19 12:16:22 2025</kbd>
