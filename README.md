@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>If you chase two rabbits, you catch none.</span></b><br><br><i> - Confucius</i></div>
-<br><br><kbd>Last updated:Sun Jun 22 12:14:02 2025</kbd>
+<div align="center"><b><span>A person hears only what they understand.</span></b><br><br><i> - Johann Wolfgang von Goethe</i></div>
+<br><br><kbd>Last updated:Mon Jun 23 12:16:52 2025</kbd>
