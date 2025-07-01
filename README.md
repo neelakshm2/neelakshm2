@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>No man is happy unless he believes he is.</span></b><br><br><i> - Publilius Syrus</i></div>
-<br><br><kbd>Last updated:Mon Jun 30 12:16:17 2025</kbd>
+<div align="center"><b><span>Some of us learn from other people's mistakes and the rest of us have to be other people.  </span></b><br><br><i> - Zig Ziglar</i></div>
+<br><br><kbd>Last updated:Tue Jul  1 12:16:35 2025</kbd>
