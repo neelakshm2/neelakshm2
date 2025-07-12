@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>When you dance, your purpose is not to get to a certain place on the floor. It's to enjoy each step along the way.  </span></b><br><br><i> - Wayne Dyer</i></div>
-<br><br><kbd>Last updated:Fri Jul 11 12:16:05 2025</kbd>
+<div align="center"><b><span>The destiny of man is in his own soul. </span></b><br><br><i> - Herodotus</i></div>
+<br><br><kbd>Last updated:Sat Jul 12 12:14:16 2025</kbd>
