@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Better a diamond with a flaw than a pebble without one.</span></b><br><br><i> - Chinese Proverb</i></div>
-<br><br><kbd>Last updated:Fri Jul 18 12:17:21 2025</kbd>
+<div align="center"><b><span>Words used to attract the dull of wit are not to be relied on.</span></b><br><br><i> - Huang Po</i></div>
+<br><br><kbd>Last updated:Sat Jul 19 12:14:39 2025</kbd>
