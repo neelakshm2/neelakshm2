@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Everything eaten is killed. Every meal is a sacrifice.</span></b><br><br><i> - Adi Da Samraj</i></div>
-<br><br><kbd>Last updated:Mon Jul 21 12:17:56 2025</kbd>
+<div align="center"><b><span>Your work is to discover your work and then, with all your heart, to give yourself to it.</span></b><br><br><i> - Buddha</i></div>
+<br><br><kbd>Last updated:Tue Jul 22 12:17:19 2025</kbd>
