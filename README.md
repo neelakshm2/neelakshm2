@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Fishing is much more than fish.</span></b><br><br><i> - Herbert Hoover</i></div>
-<br><br><kbd>Last updated:Fri Aug  8 12:17:42 2025</kbd>
+<div align="center"><b><span>Don't criticize what you can't understand. </span></b><br><br><i> - Bob Dylan</i></div>
+<br><br><kbd>Last updated:Sat Aug  9 12:14:56 2025</kbd>
