@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Management is doing things right; leadership is doing the right things.</span></b><br><br><i> - Peter Drucker</i></div>
-<br><br><kbd>Last updated:Sun Aug 10 12:15:14 2025</kbd>
+<div align="center"><b><span>The chief cause of failure and unhappiness is trading what you want most for what you want right now.</span></b><br><br><i> - Zig Ziglar</i></div>
+<br><br><kbd>Last updated:Mon Aug 11 12:17:37 2025</kbd>
