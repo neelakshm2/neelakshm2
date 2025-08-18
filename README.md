@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Your conscience is the measure of the honesty of your selfishness. Listen to it carefully.</span></b><br><br><i> - Richard Bach</i></div>
-<br><br><kbd>Last updated:Sun Aug 17 12:14:50 2025</kbd>
+<div align="center"><b><span>Happiness is an effect of doing what you love, not an end goal to be achieved.</span></b><br><br><i> - Celestine Chua</i></div>
+<br><br><kbd>Last updated:Mon Aug 18 12:17:11 2025</kbd>
