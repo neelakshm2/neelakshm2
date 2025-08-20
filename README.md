@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It is not uncommon for people to spend their whole life waiting to start living.</span></b><br><br><i> - Eckhart Tolle</i></div>
-<br><br><kbd>Last updated:Tue Aug 19 12:15:43 2025</kbd>
+<div align="center"><b><span>You are the average of the five people you spend most time with.</span></b><br><br><i> - Jim Rohn</i></div>
+<br><br><kbd>Last updated:Wed Aug 20 12:15:42 2025</kbd>
