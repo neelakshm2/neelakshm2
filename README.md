@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Two roads diverged in a wood, and I took the one less traveled by, and that has made all the difference.</span></b><br><br><i> - Robert Frost</i></div>
-<br><br><kbd>Last updated:Sun Aug 24 12:14:04 2025</kbd>
+<div align="center"><b><span>The more we value things, the less we value ourselves.  </span></b><br><br><i> - Bruce Lee</i></div>
+<br><br><kbd>Last updated:Mon Aug 25 12:16:03 2025</kbd>
