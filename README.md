@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Do not ignore your gift. Your gift is the thing you do the absolute best with the least amount of effort.</span></b><br><br><i> - Steve Harvey</i></div>
-<br><br><kbd>Last updated:Thu Sep  4 12:15:12 2025</kbd>
+<div align="center"><b><span>A lot of people have gone further than they thought they could because someone else thought they could.</span></b><br><br><i> - Zig Ziglar</i></div>
+<br><br><kbd>Last updated:Fri Sep  5 12:14:36 2025</kbd>
