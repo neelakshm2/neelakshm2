@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>We must not cease from exploration. And the end of all our exploring will be to arrive where we began and to know the place for the first time.</span></b><br><br><i> - T.S. Eliot</i></div>
-<br><br><kbd>Last updated:Sun Sep  7 12:13:16 2025</kbd>
+<div align="center"><b><span>Don't blame others. it won't make you a better person.</span></b><br><br><i> - Lolly Daskal</i></div>
+<br><br><kbd>Last updated:Mon Sep  8 12:16:49 2025</kbd>
