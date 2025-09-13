@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Don't try to steer the river.</span></b><br><br><i> - Deepak Chopra</i></div>
-<br><br><kbd>Last updated:Fri Sep 12 12:15:03 2025</kbd>
+<div align="center"><b><span>No problem can be solved from the same level of consciousness that created it.</span></b><br><br><i> - Albert Einstein</i></div>
+<br><br><kbd>Last updated:Sat Sep 13 12:12:45 2025</kbd>
