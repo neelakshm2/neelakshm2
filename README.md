@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>No problem can be solved from the same level of consciousness that created it.</span></b><br><br><i> - Albert Einstein</i></div>
-<br><br><kbd>Last updated:Sat Sep 13 12:12:45 2025</kbd>
+<div align="center"><b><span>It is not fair to ask of others what you are not willing to do yourself.</span></b><br><br><i> - Eleanor Roosevelt</i></div>
+<br><br><kbd>Last updated:Sun Sep 14 12:12:49 2025</kbd>
