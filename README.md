@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.</span></b><br><br><i> - Dale Carnegie</i></div>
-<br><br><kbd>Last updated:Sat Sep 20 12:13:27 2025</kbd>
+<div align="center"><b><span>Never whine, never complain, never try to justify yourself.</span></b><br><br><i> - Robert Greene</i></div>
+<br><br><kbd>Last updated:Sun Sep 21 12:13:16 2025</kbd>
