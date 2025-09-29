@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>No man is free who is not master of himself.</span></b><br><br><i> - Epictetus</i></div>
-<br><br><kbd>Last updated:Sun Sep 28 12:13:18 2025</kbd>
+<div align="center"><b><span>Not everything that weighs you down is yours to carry.</span></b><br><br><i> - Unknown</i></div>
+<br><br><kbd>Last updated:Mon Sep 29 12:16:01 2025</kbd>
