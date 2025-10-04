@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It is our experiences that mold us into who we are...during times of adversity our true character will show.</span></b><br><br><i> - Unknown</i></div>
-<br><br><kbd>Last updated:Fri Oct  3 12:14:45 2025</kbd>
+<div align="center"><b><span>The opposite of courage in our society is not cowardice... it is conformity.</span></b><br><br><i> - Earl Nightingale</i></div>
+<br><br><kbd>Last updated:Sat Oct  4 12:12:48 2025</kbd>
