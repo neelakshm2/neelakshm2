@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The opposite of courage in our society is not cowardice... it is conformity.</span></b><br><br><i> - Earl Nightingale</i></div>
-<br><br><kbd>Last updated:Sat Oct  4 12:12:48 2025</kbd>
+<div align="center"><b><span>The truth is not for all men, but for those who seek it.</span></b><br><br><i> - Ayn Rand</i></div>
+<br><br><kbd>Last updated:Sun Oct  5 12:13:21 2025</kbd>
