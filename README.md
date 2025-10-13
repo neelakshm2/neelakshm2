@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>You must learn to let go. Release the stress. You were never in control anyway.</span></b><br><br><i> - Steve Maraboli</i></div>
-<br><br><kbd>Last updated:Sun Oct 12 12:13:49 2025</kbd>
+<div align="center"><b><span>Patience is a form of wisdom. It demonstrates that we understand and accept the fact that sometimes things must unfold in their own time.</span></b><br><br><i> - Jon Kabat-Zinn</i></div>
+<br><br><kbd>Last updated:Mon Oct 13 12:16:16 2025</kbd>
