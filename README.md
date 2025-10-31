@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Whenever people agree with me I always feel I must be wrong.</span></b><br><br><i> - Oscar Wilde</i></div>
-<br><br><kbd>Last updated:Thu Oct 30 12:16:25 2025</kbd>
+<div align="center"><b><span>Believe in your infinite potential. Your only limitations are those you set upon yourself.</span></b><br><br><i> - Roy T. Bennett</i></div>
+<br><br><kbd>Last updated:Fri Oct 31 12:16:52 2025</kbd>
