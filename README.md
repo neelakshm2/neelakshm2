@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Never let the fear of striking out keep you from playing the game.</span></b><br><br><i> - Babe Ruth</i></div>
-<br><br><kbd>Last updated:Tue Nov  4 12:17:25 2025</kbd>
+<div align="center"><b><span>Anyone who has ever made anything of importance was disciplined.</span></b><br><br><i> - Andrew Hendrixson</i></div>
+<br><br><kbd>Last updated:Wed Nov  5 12:16:39 2025</kbd>
