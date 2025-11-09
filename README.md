@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It is indeed a radical act of love just to sit down and be quiet for a time by yourself.</span></b><br><br><i> - Jon Kabat-Zinn</i></div>
-<br><br><kbd>Last updated:Sat Nov  8 12:14:07 2025</kbd>
+<div align="center"><b><span>It is what we make out of what we have, not what we are given, that separates one person from another.</span></b><br><br><i> - Nelson Mandela</i></div>
+<br><br><kbd>Last updated:Sun Nov  9 12:13:52 2025</kbd>
