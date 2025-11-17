@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Dream big. Start small. But most of all, start.</span></b><br><br><i> - Simon Sinek</i></div>
-<br><br><kbd>Last updated:Sun Nov 16 12:14:14 2025</kbd>
+<div align="center"><b><span>The power to make and break habits and learning how to do that is really important.</span></b><br><br><i> - Naval Ravikant</i></div>
+<br><br><kbd>Last updated:Mon Nov 17 12:16:48 2025</kbd>
