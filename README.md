@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The power to make and break habits and learning how to do that is really important.</span></b><br><br><i> - Naval Ravikant</i></div>
-<br><br><kbd>Last updated:Mon Nov 17 12:16:48 2025</kbd>
+<div align="center"><b><span>I think it's very important to have a feedback loop, where you're constantly thinking about what you've done and how you could be doing it better.</span></b><br><br><i> - Elon Musk</i></div>
+<br><br><kbd>Last updated:Tue Nov 18 12:16:51 2025</kbd>
