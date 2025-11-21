@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The opportunity of defeating the enemy is provided by the enemy himself.</span></b><br><br><i> - Sun Tzu</i></div>
-<br><br><kbd>Last updated:Thu Nov 20 12:16:49 2025</kbd>
+<div align="center"><b><span>We suffer more often in imagination than in reality.  </span></b><br><br><i> - Seneca</i></div>
+<br><br><kbd>Last updated:Fri Nov 21 12:15:47 2025</kbd>
