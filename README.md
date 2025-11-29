@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Best be yourself, imperial, plain, and true.</span></b><br><br><i> - Robert Browning</i></div>
-<br><br><kbd>Last updated:Fri Nov 28 12:16:42 2025</kbd>
+<div align="center"><b><span>It doesn't matter where you are, you are nowhere compared to where you can go.</span></b><br><br><i> - Bob Proctor</i></div>
+<br><br><kbd>Last updated:Sat Nov 29 12:14:24 2025</kbd>
