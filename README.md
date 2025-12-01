@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>What's the point in being smart enough to read, if everything you read makes you dumb?</span></b><br><br><i> - C. Sean McGee</i></div>
-<br><br><kbd>Last updated:Sun Nov 30 12:14:32 2025</kbd>
+<div align="center"><b><span>You are not the drop in the ocean, but the ocean in the drop.</span></b><br><br><i> - Deepak Chopra</i></div>
+<br><br><kbd>Last updated:Mon Dec  1 12:17:49 2025</kbd>
