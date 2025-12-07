@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>He who can, does.</span></b><br><br><i> - George Bernard Shaw</i></div>
-<br><br><kbd>Last updated:Sat Dec  6 12:14:42 2025</kbd>
+<div align="center"><b><span>Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new.</span></b><br><br><i> - Brian Tracy</i></div>
+<br><br><kbd>Last updated:Sun Dec  7 12:14:33 2025</kbd>
