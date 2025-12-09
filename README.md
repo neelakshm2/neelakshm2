@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>If you do not push the boundaries, you will never know where they are.</span></b><br><br><i> - T.S. Eliot</i></div>
-<br><br><kbd>Last updated:Mon Dec  8 12:17:30 2025</kbd>
+<div align="center"><b><span>Decide whether or not the goal is worth the risks involved. If it is, stop worrying.</span></b><br><br><i> - Amelia Earhart</i></div>
+<br><br><kbd>Last updated:Tue Dec  9 12:17:50 2025</kbd>
