@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Never spend your money before you have earned it.</span></b><br><br><i> - Thomas Jefferson</i></div>
-<br><br><kbd>Last updated:Mon Dec 22 12:18:14 2025</kbd>
+<div align="center"><b><span>Longevity is a fleeting moment that lasts forever.</span></b><br><br><i> - Vidal Sassoon</i></div>
+<br><br><kbd>Last updated:Tue Dec 23 12:17:57 2025</kbd>
