@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Longevity is a fleeting moment that lasts forever.</span></b><br><br><i> - Vidal Sassoon</i></div>
-<br><br><kbd>Last updated:Tue Dec 23 12:17:57 2025</kbd>
+<div align="center"><b><span>Be brave to stand for what you believe in even if you stand alone.</span></b><br><br><i> - Roy T. Bennett</i></div>
+<br><br><kbd>Last updated:Wed Dec 24 12:17:23 2025</kbd>
