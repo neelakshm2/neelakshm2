@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>You have to make time, even for something as universal as staring at the stars.</span></b><br><br><i> - W.P. Kinsella</i></div>
-<br><br><kbd>Last updated:Thu Jan  1 12:17:55 2026</kbd>
+<div align="center"><b><span>He who cheats the earth will be cheated by the earth.</span></b><br><br><i> - Chinese Proverb</i></div>
+<br><br><kbd>Last updated:Fri Jan  2 12:17:15 2026</kbd>
