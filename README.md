@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Far more crucial than what we know or do not know is what we do not want to know.</span></b><br><br><i> - Eric Hoffer</i></div>
-<br><br><kbd>Last updated:Sat Jan  3 12:15:53 2026</kbd>
+<div align="center"><b><span>Age is a very high price to pay for maturity.</span></b><br><br><i> - William James</i></div>
+<br><br><kbd>Last updated:Sun Jan  4 12:16:01 2026</kbd>
