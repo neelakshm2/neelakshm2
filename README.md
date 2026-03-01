@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It's your life-but only if you make it so.</span></b><br><br><i> - Eleanor Roosevelt</i></div>
-<br><br><kbd>Last updated:Sat Feb 28 12:18:39 2026</kbd>
+<div align="center"><b><span>The man who removes a mountain begins by carrying away small stones.</span></b><br><br><i> - William Faulkner</i></div>
+<br><br><kbd>Last updated:Sun Mar  1 12:20:03 2026</kbd>
