@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Excellence is not an exception, it is a prevailing attitude.</span></b><br><br><i> - Colin Powell</i></div>
-<br><br><kbd>Last updated:Sun Mar 22 12:21:29 2026</kbd>
+<div align="center"><b><span>You are now, and you do become, what you think about.</span></b><br><br><i> - Earl Nightingale</i></div>
+<br><br><kbd>Last updated:Mon Mar 23 12:35:10 2026</kbd>
