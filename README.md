@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Success is about creating value.</span></b><br><br><i> - Candice Carpenter</i></div>
-<br><br><kbd>Last updated:Mon Mar 30 12:44:31 2026</kbd>
+<div align="center"><b><span>I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in.</span></b><br><br><i> - Virginia Woolf</i></div>
+<br><br><kbd>Last updated:Tue Mar 31 12:43:26 2026</kbd>
