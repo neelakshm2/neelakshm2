@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Your heart is the size of an ocean. Go find yourself in its hidden depths.</span></b><br><br><i> - Rumi</i></div>
-<br><br><kbd>Last updated:Tue Apr 21 12:53:03 2026</kbd>
+<div align="center"><b><span>When you judge another, you do not define them, you define yourself</span></b><br><br><i> - Wayne Dyer</i></div>
+<br><br><kbd>Last updated:Wed Apr 22 12:52:53 2026</kbd>
