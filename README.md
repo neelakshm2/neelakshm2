@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Over time, loneliness gets inside you and doesn't go away.</span></b><br><br><i> - Carlos Ruiz Zafon</i></div>
-<br><br><kbd>Last updated:Wed Apr 29 13:13:44 2026</kbd>
+<div align="center"><b><span>Those who cannot change their minds cannot change anything.</span></b><br><br><i> - George Bernard Shaw</i></div>
+<br><br><kbd>Last updated:Thu Apr 30 13:12:58 2026</kbd>
