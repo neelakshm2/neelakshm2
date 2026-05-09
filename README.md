@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>20 percent of your activities will account for 80 percent of your results.</span></b><br><br><i> - Brian Tracy</i></div>
-<br><br><kbd>Last updated:Fri May  8 13:01:28 2026</kbd>
+<div align="center"><b><span>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</span></b><br><br><i> - Zig Ziglar</i></div>
+<br><br><kbd>Last updated:Sat May  9 12:44:28 2026</kbd>
