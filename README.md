@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>People often say that motivation doesn't last. Well, neither does bathing - that's why we recommend it daily.</span></b><br><br><i> - Zig Ziglar</i></div>
-<br><br><kbd>Last updated:Sat May  9 12:44:28 2026</kbd>
+<div align="center"><b><span>The majority of what you want will come from the minority of what you do.</span></b><br><br><i> - Gary Keller</i></div>
+<br><br><kbd>Last updated:Sun May 10 12:44:39 2026</kbd>
