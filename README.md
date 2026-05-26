@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The secret of happiness, you see, is not found in seeking more, but in developing the capacity to enjoy less.</span></b><br><br><i> - Dan Millman</i></div>
-<br><br><kbd>Last updated:Mon May 25 14:25:49 2026</kbd>
+<div align="center"><b><span>Learn only how to avoid seeking for and attaching yourselves to anything.</span></b><br><br><i> - Huang Po</i></div>
+<br><br><kbd>Last updated:Tue May 26 14:28:29 2026</kbd>
