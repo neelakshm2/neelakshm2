@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Learn only how to avoid seeking for and attaching yourselves to anything.</span></b><br><br><i> - Huang Po</i></div>
-<br><br><kbd>Last updated:Tue May 26 14:28:29 2026</kbd>
+<div align="center"><b><span>Being wrong opens us up to the possibility of change.</span></b><br><br><i> - Mark Manson</i></div>
+<br><br><kbd>Last updated:Wed May 27 14:46:20 2026</kbd>
