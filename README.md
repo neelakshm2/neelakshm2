@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The only thing worse than being blind is having sight but no vision.</span></b><br><br><i> - Helen Keller</i></div>
-<br><br><kbd>Last updated:Tue Jun  2 15:49:30 2026</kbd>
+<div align="center"><b><span>You are always your own best guru, your own best teacher, the answers are always inside you.</span></b><br><br><i> - Sathya Sai Baba</i></div>
+<br><br><kbd>Last updated:Wed Jun  3 16:07:19 2026</kbd>
