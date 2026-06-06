@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>One of the most difficult things is not to change society - but to change yourself.</span></b><br><br><i> - Nelson Mandela</i></div>
-<br><br><kbd>Last updated:Fri Jun  5 14:14:51 2026</kbd>
+<div align="center"><b><span>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</span></b><br><br><i> - Confucius</i></div>
+<br><br><kbd>Last updated:Sat Jun  6 13:00:09 2026</kbd>
