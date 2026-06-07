@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The man who asks a question is a fool for a minute, the man who does not ask is a fool for life.</span></b><br><br><i> - Confucius</i></div>
-<br><br><kbd>Last updated:Sat Jun  6 13:00:09 2026</kbd>
+<div align="center"><b><span>A lot of people have gone further than they thought they could because someone else thought they could.</span></b><br><br><i> - Zig Ziglar</i></div>
+<br><br><kbd>Last updated:Sun Jun  7 13:12:10 2026</kbd>
