@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Every man desires to live long, but no man wishes to be old.</span></b><br><br><i> - Jonathan Swift</i></div>
-<br><br><kbd>Last updated:Thu Jun 11 15:24:58 2026</kbd>
+<div align="center"><b><span>The future depends on what you do today.</span></b><br><br><i> - Mahatma Gandhi</i></div>
+<br><br><kbd>Last updated:Fri Jun 12 14:26:51 2026</kbd>
