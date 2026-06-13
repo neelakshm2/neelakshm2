@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The future depends on what you do today.</span></b><br><br><i> - Mahatma Gandhi</i></div>
-<br><br><kbd>Last updated:Fri Jun 12 14:26:51 2026</kbd>
+<div align="center"><b><span>You can't build a reputation on what you are going to do.</span></b><br><br><i> - Henry Ford</i></div>
+<br><br><kbd>Last updated:Sat Jun 13 13:16:30 2026</kbd>
