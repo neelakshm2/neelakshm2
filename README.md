@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>But better die than live mechanically a life that is a repetition of repetitions.</span></b><br><br><i> - D. H. Lawrence</i></div>
-<br><br><kbd>Last updated:Thu Jun 18 14:36:29 2026</kbd>
+<div align="center"><b><span>All we have to decide is what to do with the time that is given to us.</span></b><br><br><i> - J.R.R. Tolkien</i></div>
+<br><br><kbd>Last updated:Fri Jun 19 14:34:16 2026</kbd>
