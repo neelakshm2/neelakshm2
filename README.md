@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>The best fighter is never angry.</span></b><br><br><i> - Lao Tzu</i></div>
-<br><br><kbd>Last updated:Thu Jun 25 13:54:48 2026</kbd>
+<div align="center"><b><span>It is dangerous to be right in matters on which the established authorities are wrong.</span></b><br><br><i> - Voltaire</i></div>
+<br><br><kbd>Last updated:Fri Jun 26 13:52:47 2026</kbd>
