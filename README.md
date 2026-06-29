@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Truth is the offspring of silence and meditation.</span></b><br><br><i> - Isaac Newton</i></div>
-<br><br><kbd>Last updated:Sun Jun 28 13:06:24 2026</kbd>
+<div align="center"><b><span>All leaders are readers.</span></b><br><br><i> - Jim Rohn</i></div>
+<br><br><kbd>Last updated:Mon Jun 29 15:21:53 2026</kbd>
