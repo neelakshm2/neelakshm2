@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>All leaders are readers.</span></b><br><br><i> - Jim Rohn</i></div>
-<br><br><kbd>Last updated:Mon Jun 29 15:21:53 2026</kbd>
+<div align="center"><b><span>To create more positive results in your life, replace 'if only' with 'next time'.</span></b><br><br><i> - Celestine Chua</i></div>
+<br><br><kbd>Last updated:Tue Jun 30 13:47:45 2026</kbd>
