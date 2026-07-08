@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy.</span></b><br><br><i> - Sun Tzu</i></div>
-<br><br><kbd>Last updated:Tue Jul  7 13:58:51 2026</kbd>
+<div align="center"><b><span>Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny.</span></b><br><br><i> - Steve Maraboli</i></div>
+<br><br><kbd>Last updated:Wed Jul  8 13:20:49 2026</kbd>
