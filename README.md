@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</span></b><br><br><i> - Kamal Ravikant</i></div>
-<br><br><kbd>Last updated:Fri Jul 10 13:47:53 2026</kbd>
+<div align="center"><b><span>Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories.</span></b><br><br><i> - Ray Bradbury</i></div>
+<br><br><kbd>Last updated:Sat Jul 11 12:43:48 2026</kbd>
