@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Pain doesn't last. And when it's gone, we have something to show for it. Growth.</span></b><br><br><i> - Kamal Ravikant</i></div>
-<br><br><kbd>Last updated:Tue Jul 14 12:58:02 2026</kbd>
+<div align="center"><b><span>There's no next time. It's now or never.</span></b><br><br><i> - Celestine Chua</i></div>
+<br><br><kbd>Last updated:Wed Jul 15 13:01:24 2026</kbd>
