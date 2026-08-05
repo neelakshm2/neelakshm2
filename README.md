@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Love never keeps a man from pursuing his destiny.</span></b><br><br><i> - Paulo Coelho</i></div>
-<br><br><kbd>Last updated:Tue Aug  4 13:29:25 2026</kbd>
+<div align="center"><b><span>It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.</span></b><br><br><i> - Epictetus</i></div>
+<br><br><kbd>Last updated:Wed Aug  5 13:27:28 2026</kbd>
