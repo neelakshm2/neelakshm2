@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Man suffers only because he takes seriously what the gods made for fun.</span></b><br><br><i> - Alan Watts</i></div>
-<br><br><kbd>Last updated:Sat Aug 15 12:11:01 2026</kbd>
+<div align="center"><b><span>Motivation is what gets you started. Habit is what keeps you going.</span></b><br><br><i> - Jim Rohn</i></div>
+<br><br><kbd>Last updated:Sun Aug 16 12:11:41 2026</kbd>
