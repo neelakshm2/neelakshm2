@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Motivation is what gets you started. Habit is what keeps you going.</span></b><br><br><i> - Jim Rohn</i></div>
-<br><br><kbd>Last updated:Sun Aug 16 12:11:41 2026</kbd>
+<div align="center"><b><span>Your happiness is what truly matters most. Do what you have to do in order to be happy.</span></b><br><br><i> - Brian Tracy</i></div>
+<br><br><kbd>Last updated:Mon Aug 17 12:15:31 2026</kbd>
