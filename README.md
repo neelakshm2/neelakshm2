@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>No matter how tall the mountain is, it cannot block the sun.</span></b><br><br><i> - Chinese Proverb</i></div>
-<br><br><kbd>Last updated:Thu Aug 20 12:18:49 2026</kbd>
+<div align="center"><b><span>Listen to the secret sound, the real sound, which is inside you.</span></b><br><br><i> - Kabir</i></div>
+<br><br><kbd>Last updated:Fri Aug 21 12:18:28 2026</kbd>
