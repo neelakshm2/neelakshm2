@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</span></b><br><br><i> - Charles Dickens</i></div>
-<br><br><kbd>Last updated:Wed Aug 26 12:21:27 2026</kbd>
+<div align="center"><b><span>Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us.</span></b><br><br><i> - Richard Bach</i></div>
+<br><br><kbd>Last updated:Thu Aug 27 21:20:46 2026</kbd>
