@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Stop wasting time defending your problems and work on addressing them instead.</span></b><br><br><i> - Celestine Chua</i></div>
-<br><br><kbd>Last updated:Tue Sep  1 15:37:05 2026</kbd>
+<div align="center"><b><span>Force has no place where there is need of skill.</span></b><br><br><i> - Herodotus</i></div>
+<br><br><kbd>Last updated:Wed Sep  2 15:24:33 2026</kbd>
