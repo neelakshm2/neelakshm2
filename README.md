@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose.</span></b><br><br><i> - Ming-Dao Deng</i></div>
-<br><br><kbd>Last updated:Fri Sep 11 15:19:13 2026</kbd>
+<div align="center"><b><span>He who leaves the game wins it.</span></b><br><br><i> - Nicolas Chamfort</i></div>
+<br><br><kbd>Last updated:Sat Sep 12 14:27:14 2026</kbd>
