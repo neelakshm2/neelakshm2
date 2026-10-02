@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>When you stop questioning, you stop learning.</span></b><br><br><i> - Lolly Daskal</i></div>
-<br><br><kbd>Last updated:Thu Oct  1 17:33:41 2026</kbd>
+<div align="center"><b><span>I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.</span></b><br><br><i> - Nelson Mandela</i></div>
+<br><br><kbd>Last updated:Fri Oct  2 16:52:36 2026</kbd>
