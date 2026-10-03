@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear.</span></b><br><br><i> - Nelson Mandela</i></div>
-<br><br><kbd>Last updated:Fri Oct  2 16:52:36 2026</kbd>
+<div align="center"><b><span>We are born from a quiet sleep, and we die to a calm awakening</span></b><br><br><i> - Zhuangzi</i></div>
+<br><br><kbd>Last updated:Sat Oct  3 15:17:04 2026</kbd>
