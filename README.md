@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>You only live once, but if you do it right, once is enough.</span></b><br><br><i> - Mae West</i></div>
-<br><br><kbd>Last updated:Sun Oct 11 16:50:19 2026</kbd>
+<div align="center"><b><span>Those who know, do. Those that understand, teach.</span></b><br><br><i> - Aristotle</i></div>
+<br><br><kbd>Last updated:Mon Oct 12 20:28:03 2026</kbd>
