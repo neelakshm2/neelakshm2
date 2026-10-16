@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>Everything eaten is killed. Every meal is a sacrifice.</span></b><br><br><i> - Adi Da Samraj</i></div>
-<br><br><kbd>Last updated:Thu Oct 15 15:49:15 2026</kbd>
+<div align="center"><b><span>As we first succeed, we will find ourselves in new situations, facing new problems.</span></b><br><br><i> - Ryan Holiday</i></div>
+<br><br><kbd>Last updated:Fri Oct 16 15:37:37 2026</kbd>
