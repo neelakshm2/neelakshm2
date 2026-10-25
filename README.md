@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</span></b><br><br><i> - Henry Ward Beecher</i></div>
-<br><br><kbd>Last updated:Sat Oct 24 14:56:11 2026</kbd>
+<div align="center"><b><span>The wiser you get, the less you care to look like a fool.</span></b><br><br><i> - Maxime Lagace</i></div>
+<br><br><kbd>Last updated:Sun Oct 25 15:06:04 2026</kbd>
