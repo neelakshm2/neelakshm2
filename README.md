@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</span></b><br><br><i> - Walt Disney</i></div>
-<br><br><kbd>Last updated:Sat Oct 31 16:22:27 2026</kbd>
+<div align="center"><b><span>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</span></b><br><br><i> - Kamal Ravikant</i></div>
+<br><br><kbd>Last updated:Sun Nov  1 17:16:35 2026</kbd>
