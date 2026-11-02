@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</span></b><br><br><i> - Kamal Ravikant</i></div>
-<br><br><kbd>Last updated:Sun Nov  1 17:16:35 2026</kbd>
+<div align="center"><b><span>If you want others to be happy, practice compassion. If you want to be happy, practice compassion.</span></b><br><br><i> - Dalai Lama</i></div>
+<br><br><kbd>Last updated:Mon Nov  2 20:54:39 2026</kbd>
