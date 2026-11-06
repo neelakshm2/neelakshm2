@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>What the eye doesn't see and the mind doesn't know, doesn't exist.</span></b><br><br><i> - D. H. Lawrence</i></div>
-<br><br><kbd>Last updated:Wed Nov  4 18:55:11 2026</kbd>
+<div align="center"><b><span>Your mind is infinite, it's your doubts that are limiting.</span></b><br><br><i> - Robert Kiyosaki</i></div>
+<br><br><kbd>Last updated:Fri Nov  6 18:33:47 2026</kbd>
