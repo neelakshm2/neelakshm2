@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>People spend too much time doing and not enough time thinking about what they should be doing.</span></b><br><br><i> - Naval Ravikant</i></div>
-<br><br><kbd>Last updated:Sun Nov  8 17:16:11 2026</kbd>
+<div align="center"><b><span>It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it.</span></b><br><br><i> - Dale Carnegie</i></div>
+<br><br><kbd>Last updated:Mon Nov  9 21:39:34 2026</kbd>
