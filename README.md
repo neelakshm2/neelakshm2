@@ -1,3 +1,3 @@
 
-<div align="center"><b><span>We have to live life with a sense of urgency so not a minute is wasted.</span></b><br><br><i> - Les Brown</i></div>
-<br><br><kbd>Last updated:Wed Nov 25 20:44:05 2026</kbd>
+<div align="center"><b><span>Keep your eyes on the stars, but remember to keep your feet on the ground.</span></b><br><br><i> - Theodore Roosevelt</i></div>
+<br><br><kbd>Last updated:Thu Nov 26 20:35:43 2026</kbd>
